@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "pwm.h": "c",
+        "rp2040_nodeconstants.h": "c"
+    }
+}
