@@ -1,3 +1,0 @@
-C:/Users/AlecStobbs/OneDrive/College/University/Mechatronics Club/pico_projects/MCT-i2c-protocal/build/pioasm/CMakeFiles/pioasm.dir
-C:/Users/AlecStobbs/OneDrive/College/University/Mechatronics Club/pico_projects/MCT-i2c-protocal/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Users/AlecStobbs/OneDrive/College/University/Mechatronics Club/pico_projects/MCT-i2c-protocal/build/pioasm/CMakeFiles/rebuild_cache.dir
